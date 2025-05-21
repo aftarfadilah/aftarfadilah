@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My interest based on topic I read in Daily Dev:
+
 <a href="https://app.daily.dev/aftarfadilah"><img src="https://github.com/aftarfadilah/aftarfadilah/blob/main/devcard.svg" width="400" alt="Aftar Fadilah's Dev Card"/></a>
 
 Read my latest medium story:
