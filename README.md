@@ -2,6 +2,8 @@
 
 <a href="https://app.daily.dev/aftarfadilah"><img src="https://github.com/aftarfadilah/aftarfadilah/blob/main/devcard.svg" width="400" alt="Aftar Fadilah's Dev Card"/></a>
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aftarfadilah/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aftarfadilah/0" alt="Recent Article 0"> 
+
 <!--
 **aftarfadilah/aftarfadilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
